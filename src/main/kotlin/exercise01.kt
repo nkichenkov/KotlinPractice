@@ -1,4 +1,4 @@
-fun main () {
+fun main() {
     val first = readln()
     val second = readln()
     val message = "$first + $second = LOVE"
